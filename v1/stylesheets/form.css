@@ -1,0 +1,8 @@
+label.error {
+    color: #d14;
+    font-size: 13px;
+}
+
+input.error {
+    border-color: #d14 !important;
+}

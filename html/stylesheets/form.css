@@ -1,0 +1,30 @@
+label.error {
+    color: #d14;
+    font-size: 13px;
+}
+
+input.error {
+    border-color: #d14 !important;
+}
+
+#form-error,
+#form-success{
+    width: 100%;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0 0 8px;
+    padding: 5px;
+}
+
+#form-error {
+    color: #d14;
+    background-color: #f6d5df;
+    border: 1px solid #d14 !important;
+}
+
+#form-success {
+    color: #4BB543;
+    background-color: #c6f1c2;
+    border: 1px solid #4BB543 !important;
+}
